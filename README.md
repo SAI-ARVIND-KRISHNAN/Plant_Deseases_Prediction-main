@@ -1,0 +1,1 @@
+Led a 5-person team to develop a real-time plant disease detection system using Convolutional Neural Networks (CNNs). The system achieved 95% accuracy in identifying diseases like 'Common Rust,' 'Early Blight,' and 'Bacterial Spot' from live feed data. Trained the model on 500 images (256x256 px) over 34 epochs, with a detection rate of up to 100 samples per minute.
